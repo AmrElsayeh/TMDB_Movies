@@ -7,7 +7,7 @@ Udacity-Project-Investigate-TMDB-Movies-Dataset
 
 I utilized the approximately 10,000 movies from the TMDB movie dataset. Insights regarding movie features will be analysed as part of this inquiry with the aim of assisting the film business in increasing its revenue.
 
-**What do I need to install? You will need an installation of Python, plus the following libraries:(pandas,NumPy,Matplotlib,csv)**
+**What do I need to install? You will need an installation of Python, plus the following libraries:(pandas,NumPy,Matplotlib,csv)** \n /n
 It will be recommend to installing Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
 
 **Why this Project?**
